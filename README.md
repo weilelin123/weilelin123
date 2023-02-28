@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Weile Lin. I have lived in Hawaii for over 10 years and study📝 computer science at the University of Hawaii.💥
-- 🔥 I'm interested in Game Development, Game Designer, and IT support.
+- 🔥 I'm interested in Game Development, Game Design, and IT support.
 - 👀 I’m currently learning C#, Unity 3D, Shell Script, and Linux command.
 - 🔧 I'm looking to collaborate on a 2D/3D RPG  game.
 - 📫 linweile@hawaii.edu
